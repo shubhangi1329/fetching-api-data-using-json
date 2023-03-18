@@ -1,0 +1,12 @@
+td:first-child,tr:nth-child {
+    text-align:end;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+button{
+    background-color: bisque;
+    margin:30px !important;
+}
